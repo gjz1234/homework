@@ -90,3 +90,12 @@ vue/
 ---
 
 **下一步** | Next: [任务二：认识社区 | Task 2: Meet the Community](./TASK_2.md)
+
+
+总提交记录数：2
+
+最早 2 条提交记录
+9e05a89 Initial commit
+28ff219 work
+
+.git 文件夹大小：220K
